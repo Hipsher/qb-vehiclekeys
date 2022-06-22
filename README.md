@@ -16,6 +16,8 @@ Go to your qb-core/shared/items.lua and add this line
 
 ['security_system_device']       = {['name'] = 'security_system_device',        ['label'] = 'Security System Hacking Device', ['weight'] = 100,    ['type'] = 'item',       ['image'] = 'security_system_device.png',		['unique'] = true,      ['useable'] = true,     ['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = 'This device look sus'},
 
+## Add image
+open qb-inventory or lj-inventory html/images and drag the security_system_device.png into there.
 
 ## License
 QBCore Framework
