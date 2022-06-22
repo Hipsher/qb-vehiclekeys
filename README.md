@@ -9,7 +9,7 @@ updated by Hipsher#7013 to work with most recent qb-core
  + qb-lock https://github.com/Tex27/qb-lock
  + qb-core https://github.com/qbcore-framework/qb-core
  + boosting hack https://github.com/Lionh34rt/boostinghack
-
+ + ps-dispatch https://github.com/Project-Sloth/ps-dispatch for my dispatch but can be changed in client/main.lua and look for ps-dispatch and change it to qb-dispatch
 
 ## Add Item
 Go to your qb-core/shared/items.lua and add this line
